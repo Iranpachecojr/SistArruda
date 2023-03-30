@@ -1,0 +1,15 @@
+C:\Users\iranp\OneDrive\Documentos\SENAI_CodBackEnd\SistemaArrudaPecas\SistArruda\bin\Debug\net7.0\SistArruda.exe
+C:\Users\iranp\OneDrive\Documentos\SENAI_CodBackEnd\SistemaArrudaPecas\SistArruda\bin\Debug\net7.0\SistArruda.deps.json
+C:\Users\iranp\OneDrive\Documentos\SENAI_CodBackEnd\SistemaArrudaPecas\SistArruda\bin\Debug\net7.0\SistArruda.runtimeconfig.json
+C:\Users\iranp\OneDrive\Documentos\SENAI_CodBackEnd\SistemaArrudaPecas\SistArruda\bin\Debug\net7.0\SistArruda.dll
+C:\Users\iranp\OneDrive\Documentos\SENAI_CodBackEnd\SistemaArrudaPecas\SistArruda\bin\Debug\net7.0\SistArruda.pdb
+C:\Users\iranp\OneDrive\Documentos\SENAI_CodBackEnd\SistemaArrudaPecas\SistArruda\obj\Debug\net7.0\SistArruda.csproj.AssemblyReference.cache
+C:\Users\iranp\OneDrive\Documentos\SENAI_CodBackEnd\SistemaArrudaPecas\SistArruda\obj\Debug\net7.0\SistArruda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iranp\OneDrive\Documentos\SENAI_CodBackEnd\SistemaArrudaPecas\SistArruda\obj\Debug\net7.0\SistArruda.AssemblyInfoInputs.cache
+C:\Users\iranp\OneDrive\Documentos\SENAI_CodBackEnd\SistemaArrudaPecas\SistArruda\obj\Debug\net7.0\SistArruda.AssemblyInfo.cs
+C:\Users\iranp\OneDrive\Documentos\SENAI_CodBackEnd\SistemaArrudaPecas\SistArruda\obj\Debug\net7.0\SistArruda.csproj.CoreCompileInputs.cache
+C:\Users\iranp\OneDrive\Documentos\SENAI_CodBackEnd\SistemaArrudaPecas\SistArruda\obj\Debug\net7.0\SistArruda.dll
+C:\Users\iranp\OneDrive\Documentos\SENAI_CodBackEnd\SistemaArrudaPecas\SistArruda\obj\Debug\net7.0\refint\SistArruda.dll
+C:\Users\iranp\OneDrive\Documentos\SENAI_CodBackEnd\SistemaArrudaPecas\SistArruda\obj\Debug\net7.0\SistArruda.pdb
+C:\Users\iranp\OneDrive\Documentos\SENAI_CodBackEnd\SistemaArrudaPecas\SistArruda\obj\Debug\net7.0\SistArruda.genruntimeconfig.cache
+C:\Users\iranp\OneDrive\Documentos\SENAI_CodBackEnd\SistemaArrudaPecas\SistArruda\obj\Debug\net7.0\ref\SistArruda.dll
